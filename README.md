@@ -37,10 +37,5 @@
 - Kurangi kecepatan saat hujan
 - Istirahat cukup sebelum perjalanan jauh
 
-## Nomor Darurat
-- Polisi: 110
-- Ambulans: 118
-- Pemadam: 113
-
 ---
-*Keselamatan adalah prioritas utama dalam berkendara*
+Keselamatan adalah prioritas utama dalam berkendara

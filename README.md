@@ -1,15 +1,46 @@
 # Instruksi Menyetir Mobil
 
-1. Pastikan posisi duduk nyaman dan atur kaca spion agar pandangan jelas.  
-2. Injak pedal rem sebelum menyalakan mesin.  
-3. Masukkan kunci dan putar ke posisi ON, kemudian nyalakan mesin.  
-4. Pastikan tuas transmisi berada di posisi **P** (untuk matic) atau **N** (untuk manual) sebelum menyalakan.  
-5. Untuk mobil manual: injak pedal kopling sebelum memindahkan gigi.  
-6. Untuk mobil matic: injak pedal rem, lalu pindahkan tuas ke posisi **D** untuk maju atau **R** untuk mundur.  
-7. Lepaskan rem tangan secara perlahan.  
-8. Tekan pedal gas sedikit demi sedikit sambil melepaskan rem (atau kopling untuk manual).  
-9. Saat mengemudi, selalu jaga kecepatan sesuai aturan lalu lintas dan perhatikan kondisi jalan.  
-10. Saat ingin berhenti, kurangi kecepatan, injak rem, dan jika sudah berhenti total, aktifkan rem tangan.  
-11. Setelah selesai mengemudi, pindahkan tuas transmisi ke posisi **P** (matic) atau **N** (manual), matikan mesin, lalu cabut kunci.  
+## Persiapan Sebelum Menyetir
+- Cek ban, oli, rem, dan lampu
+- Atur posisi kursi dan spion
+- Pasang sabuk pengaman
 
-Selalu utamakan keselamatan dan patuhi rambu lalu lintas!
+## Langkah Dasar Mobil Manual
+
+### Menyalakan Mesin
+1. Pastikan transmisi netral
+2. Injak kopling penuh
+3. Putar kunci kontak
+
+### Mulai Berkendara
+1. Injak kopling, masukkan gigi 1
+2. Lepas rem tangan
+3. Angkat kopling perlahan sambil gas ringan
+4. Lepas kopling sepenuhnya setelah mobil jalan
+
+## Perpindahan Gigi
+- Gigi 1: 0-20 km/jam (start)
+- Gigi 2: 20-40 km/jam (dalam kota)
+- Gigi 3: 40-60 km/jam (jalan raya)
+- Gigi 4: 60+ km/jam (kecepatan tinggi)
+
+## Keselamatan Berkendara
+- Jaga jarak aman 3-4 detik dari kendaraan depan
+- Gunakan lampu sein saat belok
+- Patuhi rambu lalu lintas
+- Jangan gunakan ponsel saat mengemudi
+
+## Tips Penting
+- Posisi tangan di stir jam 9-3 atau 8-4
+- Rem bertahap, bukan mendadak
+- Berkendara defensif dan selalu waspada
+- Kurangi kecepatan saat hujan
+- Istirahat cukup sebelum perjalanan jauh
+
+## Nomor Darurat
+- Polisi: 110
+- Ambulans: 118
+- Pemadam: 113
+
+---
+*Keselamatan adalah prioritas utama dalam berkendara*

@@ -36,6 +36,3 @@
 - Berkendara defensif dan selalu waspada
 - Kurangi kecepatan saat hujan
 - Istirahat cukup sebelum perjalanan jauh
-
----
-Keselamatan adalah prioritas utama dalam berkendara
